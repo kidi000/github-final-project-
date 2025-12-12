@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/kidi000/github-final-project-/refs/heads/main/README.md
+https://github.com/kidi000/github-final-project-/blob/main/README.md
